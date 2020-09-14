@@ -1,5 +1,6 @@
 # Hello Git and GitHub
 
+<<<<<<< HEAD
 ## Adding some changes so that I can see it has been changed.
 * Somethig better than
 
@@ -18,5 +19,7 @@ gantt
 	section Ciselnik MaO
 	Integracia      :2020-09-12  , 12d
 	KYC      : 24d
-					
-```
+=======
+
+## Adding some changes so that I can see it has been changed.
+>>>>>>> 29e264ab39f567d7bde464b050dd51bd0abaae0d
